@@ -28,6 +28,8 @@ const martin = {
 ### Recent Projects
 ---
 #### Pathfinder Visualiser
+*Tech Stack: React | HTML/CSS | JavaScript*
+
 <a href="https://martintiangco.github.io/Pathfinder-Visualiser/">
 	<img align="left" src="https://github.com/MartinTiangco/Pathfinder-Visualiser/blob/master/img/demo.PNG" width="300">
 </a>
@@ -36,19 +38,16 @@ const martin = {
 
 Pathfinding algorithms' practical uses include pathfinding in video games, Google Maps and the networks (particularly the internet).
 
-
-Tech Stack: React | HTML/CSS | JavaScript
-
 ---
 
 #### Krayon Kafe
+*Tech Stack: HTML/CSS | JavaScript | Express*
+
 <a href="https://krayon-kafe.herokuapp.com/">
 	<img align="left" src="https://github.com/MartinTiangco/Krayon-Kafe/blob/master/readmeImages/websiteOnHeroku.PNG" width="300">
 </a>
 
 [Krayon Kafe](https://github.com/MartinTiangco/Krayon-Kafe/) is an online web application that displays to users with the Google Maps interface the cafes around a desired neighbourhood/area (e.g. Britomart). The project was built over a two-day period in Summer of Tech and ANZ's "Create Camp" hackathon-style event. The application uses two APIs - ZenbuAPI for the locaton gathering of the cafes and Google Maps API for the location display to the end-customers.
-
-Tech Stack: HTML/CSS | JavaScript | Express
 
 <!--
 **MartinTiangco/MartinTiangco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
