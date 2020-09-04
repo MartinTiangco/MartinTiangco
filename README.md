@@ -12,12 +12,12 @@ Welcome to my GitHub :octocat: profile. I am [Martin Tiangco](https://www.linked
 
 <details>
 
-<summary>More About Me...</summary>
+<summary>Click to find out more about me...</summary>
 
 ```javascript
 const martin = {
   pronouns: "he" | "him",
-  code: [Java, JavaScript, HTML/CSS],
+  code: [Java, JavaScript, HTML, CSS],
   tools: [React, Node, SQL, AWS, GitHub],
   currentProject: "Currently working on my personal portfolio, honing my skills in React along the way.",
 };
