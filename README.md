@@ -29,12 +29,13 @@ const martin = {
 ---
 #### Pathfinder Visualiser
 <a href="https://martintiangco.github.io/Pathfinder-Visualiser/">
-	<img align="left" src="https://github.com/MartinTiangco/Pathfinder-Visualiser/blob/master/img/demo.PNG" width="350">
+	<img align="left" src="https://github.com/MartinTiangco/Pathfinder-Visualiser/blob/master/img/demo.PNG" width="300">
 </a>
 
 [Pathfinder Visualiser](https://github.com/MartinTiangco/Pathfinder-Visualiser) visualises different pathfinding algorithms (e.g. Dijkstra's Algorithm, Breadth-first Search, Depth-first Search) on a 2-dimensional grid. When learning about these algorithms, it is usual that we read about it and someone tells us how they work. This application serves as another learning tool to increase understanding of these algorithms. Show, don't tell.
 
 Pathfinding algorithms' practical uses include pathfinding in video games, Google Maps and the networks (particularly the internet).
+
 
 Tech Stack: React | HTML/CSS | JavaScript
 
@@ -42,7 +43,7 @@ Tech Stack: React | HTML/CSS | JavaScript
 
 #### Krayon Kafe
 <a href="https://krayon-kafe.herokuapp.com/">
-	<img align="left" src="https://github.com/MartinTiangco/Krayon-Kafe/blob/master/readmeImages/websiteOnHeroku.PNG" width="350">
+	<img align="left" src="https://github.com/MartinTiangco/Krayon-Kafe/blob/master/readmeImages/websiteOnHeroku.PNG" width="300">
 </a>
 
 [Krayon Kafe](https://github.com/MartinTiangco/Krayon-Kafe/) is an online web application that displays to users with the Google Maps interface the cafes around a desired neighbourhood/area (e.g. Britomart). The project was built over a two-day period in Summer of Tech and ANZ's "Create Camp" hackathon-style event. The application uses two APIs - ZenbuAPI for the locaton gathering of the cafes and Google Maps API for the location display to the end-customers.
