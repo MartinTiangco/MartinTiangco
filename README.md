@@ -12,7 +12,7 @@ Welcome to my GitHub :octocat: profile. I am [Martin Tiangco](https://www.linked
 
 <details>
 
-<summary>Expand: More About Me...</summary>
+<summary>More About Me...</summary>
 
 ```javascript
 const martin = {
@@ -34,7 +34,11 @@ const martin = {
 
 [Pathfinder Visualiser](https://github.com/MartinTiangco/Pathfinder-Visualiser) visualises different pathfinding algorithms (e.g. Dijkstra's Algorithm, Breadth-first Search, Depth-first Search) on a 2-dimensional grid. When learning about these algorithms, it is usual that we read about it and someone tells us how they work. This application serves as another learning tool to increase understanding of these algorithms. Show, don't tell.
 
+Pathfinding algorithms' practical uses include pathfinding in video games, Google Maps and the networks (particularly the internet).
+
 Tech Stack: React | HTML/CSS | JavaScript
+
+---
 
 #### Krayon Kafe
 <a href="https://krayon-kafe.herokuapp.com/">
@@ -44,7 +48,6 @@ Tech Stack: React | HTML/CSS | JavaScript
 [Krayon Kafe](https://github.com/MartinTiangco/Krayon-Kafe/) is an online web application that displays to users with the Google Maps interface the cafes around a desired neighbourhood/area (e.g. Britomart). The project was built over a two-day period in Summer of Tech and ANZ's "Create Camp" hackathon-style event. The application uses two APIs - ZenbuAPI for the locaton gathering of the cafes and Google Maps API for the location display to the end-customers.
 
 Tech Stack: HTML/CSS | JavaScript | Express
-
 
 <!--
 **MartinTiangco/MartinTiangco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
