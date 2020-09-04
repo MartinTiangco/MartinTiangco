@@ -25,9 +25,9 @@ const martin = {
 
 </details>
  
-### Recent Projects
+### 💻 Recent Projects
 ---
-#### Pathfinder Visualiser
+#### 🗺️ Pathfinder Visualiser
 *Tech Stack: React | HTML/CSS | JavaScript*
 
 <a href="https://martintiangco.github.io/Pathfinder-Visualiser/">
@@ -40,7 +40,7 @@ Pathfinding algorithms' practical uses include pathfinding in video games, Googl
 
 ---
 
-#### Krayon Kafe
+#### ☕ Krayon Kafe
 *Tech Stack: HTML/CSS | JavaScript | Express*
 
 <a href="https://krayon-kafe.herokuapp.com/">
