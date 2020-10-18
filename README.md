@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub :octocat: profile. I am [Martin Tiangco](https://www.linkedin.com/in/martintiangco).
+Welcome to my GitHub :octocat: profile. I am [Martin Tiangco](https://www.linkedin.com/in/martintiangco). Check out my [personal website](https://martintiangco.com/)!
 
 #### University and Work:
 
