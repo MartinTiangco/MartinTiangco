@@ -4,7 +4,7 @@ Welcome to my GitHub :octocat: profile. I am [Martin Tiangco](https://www.linked
 
 #### University and Work:
 
-🎓 Penultimate Year Software Engineering student @ [University of Auckland](https://www.auckland.ac.nz/en.html) (Graduating in Nov 2021)  
+🎓 Software Engineering student @ [University of Auckland](https://www.auckland.ac.nz/en.html) (Graduating in Nov 2021)  
 👨🏼‍💻 Secretary/Executive Member @ [Web Development & Consulting Club (WDCC)](https://www.wdcc.co.nz/)
 
 #### 📫 Feel free to reach out to me:
