@@ -9,21 +9,6 @@ Welcome to my GitHub :octocat: profile. I am [Martin Tiangco](https://www.linked
 
 #### 📫 Feel free to reach out to me:
 [![Linkedin: martintiangco](https://img.shields.io/badge/-martintiangco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martintiangco/)](https://www.linkedin.com/in/martintiangco/) [![Gmail: martintiangco](https://img.shields.io/badge/-martintiangco-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martintiangco@gmail.com)](mailto:martintiangco@gmail.com)
-
-<details>
-
-<summary>Click to find out more about me...</summary>
-
-```javascript
-const martin = {
-  pronouns: "he" | "him",
-  code: [Java, JavaScript, HTML, CSS],
-  tools: [React, Node, SQL, AWS, GitHub],
-  currentProject: "Currently working on my personal portfolio, honing my skills in React along the way.",
-};
-```
-
-</details>
  
 ### 💻 Recent Projects
 ---
